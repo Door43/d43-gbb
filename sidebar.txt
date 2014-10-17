@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gbb:home|Door43 (gbb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gbb|d43-gbb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gbb/archive/master.zip|d43-gbb.zip]]
+
+**Recent Changes**
+{{changes>ns = gbb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gbb|Ethnologue data]]
+
